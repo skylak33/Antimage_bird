@@ -1,3 +1,2 @@
 # Antimage_bird
-
-My flappy bird parody on pygame.
+Антимаг момент
